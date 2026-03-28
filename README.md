@@ -10,8 +10,7 @@
 
 ## ✦ About me
 
-I work with Arduino and ESP32 for embedded systems to collect and control real-world data.  
-Creating innovative solutions in IoT.
+Creating innovative solutions in IoT. I work with Arduino and ESP32 for embedded systems to collect and control real-world data.
 
 I connect devices to scalable backends and create reliable APIs, with focus on clean architecture, code organization, and user experience.
 
