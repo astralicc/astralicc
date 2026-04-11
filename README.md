@@ -43,7 +43,7 @@ I also design and develop games in ROBLOX, including gameplay design and texture
 ![PHP](https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=777BB4)
 ![Dart](https://img.shields.io/badge/Dart-0D1117?style=for-the-badge&logo=dart&logoColor=0175C2)
 
-#### Framework & Libraries
+#### Framework, Libraries & Tools
 ![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=339933)
 ![Express](https://img.shields.io/badge/Express-0D1117?style=for-the-badge&logo=express&logoColor=FFFFFF)
 ![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF)
