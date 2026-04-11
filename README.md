@@ -49,7 +49,9 @@ I also design and develop games in ROBLOX, including gameplay design and texture
 ![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF)
 ![Laravel](https://img.shields.io/badge/Laravel-0D1117?style=for-the-badge&logo=laravel&logoColor=FF2D20)
 ![Flutter](https://img.shields.io/badge/Flutter-0D1117?style=for-the-badge&logo=flutter&logoColor=02569B)
-![Firebase](https://img.shields.io/badge/Firebase-0D1117?style=for-the-badge&logo=firebase&logoColor=FFCA28)
+![NestJS](https://img.shields.io/badge/NestJS-0D1117?style=for-the-badge&logo=nestjs&logoColor=E0234E)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED)
 
 ### ⟡ IoT & Embedded Systems
 ![Arduino](https://img.shields.io/badge/Arduino-0D1117?style=for-the-badge&logo=arduino&logoColor=00979D)
